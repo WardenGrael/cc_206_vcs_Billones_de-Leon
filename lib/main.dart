@@ -1,4 +1,5 @@
 //Kyne de Leon : in volun veritas!
+//Kyle Billones: Stop talking what a good man should be and be one - Marcus Aurelius
 
 import 'package:flutter/material.dart';
 
